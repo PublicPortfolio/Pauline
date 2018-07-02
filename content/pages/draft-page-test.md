@@ -1,5 +1,5 @@
 ---
-title: Page
+title: Page2
 menu: main
 ---
 1. visible by default
