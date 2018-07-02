@@ -1,4 +1,5 @@
 ---
-title: This is a new page
+title: Mes expériences
+menu: main
 ---
 test
