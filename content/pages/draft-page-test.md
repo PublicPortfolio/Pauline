@@ -1,5 +1,5 @@
 ---
-title: Page2
+title: Bio
 menu: main
 ---
 1. visible by default
