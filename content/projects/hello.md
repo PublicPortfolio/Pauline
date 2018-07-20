@@ -1,6 +1,6 @@
 ---
 title: Quitter Paris- je pars.
-slug: hello
+slug: Quitter Paris
 image: /medias/uploads/p1000499.png
 ---
 Voilà quasiment un an que je prépare ce voyage aux Etats-Unis. Un an d’emails, d’appels, de messages, de fantasmes, de projections, d’excitation, de lectures, de nuits à rêver les grands silences du désert, de discussions, de recherche active de sous (dans des vieux bouquins, en vendant des fringues, « vous voyez les gars, il y a cet immense projet et toussa donc si tu me donnes 5 euros ,» en comptant mes pourboires les soirs de week-ends comme une vieille miséreuse dans un poème de Baudelaire, et en allant chez mon très cher Gentizon- allô, oui ? J’ai sous-loué mon appart, je peux venir chez toi ?
